@@ -130,7 +130,7 @@ bvar目录下是指标收集的实现。
 
 此外，之前的issue中对一些问题的讨论，也是非常好的学习材料。其中有些issue依然没有结论，期待着大家参与交流。
 
-brpc社区有很多的issue，对于issue的管理，会给一些issue打上对应的lebel，目前label的类型有如下几种：
+brpc社区有很多的issue，对于issue的管理，会给一些issue打上对应的label，目前label的类型有如下几种：
 
 1. bug：确认为bug的问题
 
